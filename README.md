@@ -1,2 +1,1 @@
-# python
-basic practice of python
+# infogather
